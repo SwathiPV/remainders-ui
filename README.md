@@ -1,1 +1,1 @@
-# remainders-ui
+# reminders-ui
